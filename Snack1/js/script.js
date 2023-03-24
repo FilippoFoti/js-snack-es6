@@ -25,7 +25,6 @@ const bike = [
 console.log(bike);
 
 let smallBike = bike[0];
-const itemsContainer = document.querySelector(".col");
 
 for(let i = 0; i < bike.length; i++) {
     if (bike[i].peso < smallBike.peso) {

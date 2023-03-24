@@ -1,0 +1,37 @@
+/* HEADER */
+
+header {
+    height: 50px;
+    width: 100%;
+    background-color: #e6e6e6;
+}
+
+/* MAIN */
+
+.container {
+    background-image: url(../img/pexels-jahangeer-bm-1619299.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#result {
+    font-size: 3rem;
+    color: white;
+    font-weight: bold;
+}
+
+/* FOOTER */
+
+footer {
+    height: 75px;
+    background-color: #e6e6e6;
+}
+
+footer h2 {
+    color: rgba(0, 21, 51, 1);
+    font-size: 1.5rem;
+}
+
+footer span {
+    color: rgba(0, 225, 101, 1);
+}
